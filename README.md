@@ -1,4 +1,4 @@
-# Line-Following-Drone
+# Edge detection for Line-Following-Drone
 
 ## 1.  To see the simulation of drone movements in Gazebo: 
    #### run the following command in a terminal: 
